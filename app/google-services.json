@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "972217845130",
+    "firebase_url": "https://comfyeat-ea8e9.firebaseio.com",
+    "project_id": "comfyeat-ea8e9",
+    "storage_bucket": "comfyeat-ea8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972217845130:android:37841fe2c18b6ff339f473",
+        "android_client_info": {
+          "package_name": "com.edd.comfyeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972217845130-95qr9upqa51ut5kcajved9ucq2su47kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPHlVzLv5ZHVRmxoBaaK94VnNEMvL-ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972217845130-95qr9upqa51ut5kcajved9ucq2su47kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972217845130:android:adafb17c32fb54d839f473",
+        "android_client_info": {
+          "package_name": "com.example.simplyclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972217845130-95qr9upqa51ut5kcajved9ucq2su47kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPHlVzLv5ZHVRmxoBaaK94VnNEMvL-ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972217845130-95qr9upqa51ut5kcajved9ucq2su47kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
